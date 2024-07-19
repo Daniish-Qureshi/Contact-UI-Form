@@ -8,10 +8,10 @@ The Contact UI Form project showcases a modern and user-friendly contact form in
 
 ## Features
 
-- *Responsive Design: Adjusts smoothly to different screen sizes for a consistent look on desktops, tablets, and mobile devices.
-- *Interactive Elements: User-friendly input fields with interactive features like focus effects and validation prompts.
+- *Responsive Design*: Adjusts smoothly to different screen sizes for a consistent look on desktops, tablets, and mobile devices.
+- *Interactive Elements*: User-friendly input fields with interactive features like focus effects and validation prompts.
 - *Hover Effects*: Interactive hover effects for an engaging user experience.
-- *Validation: Built-in form validation to ensure that users provide the necessary information before submitting.
+- *Validation*: Built-in form validation to ensure that users provide the necessary information before submitting.
 
 ## Technologies Used
 
