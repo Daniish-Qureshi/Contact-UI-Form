@@ -2,6 +2,16 @@
 
 A stylish and modern **Contact UI Form** created using HTML and CSS.
 
+## Demo Screenshots
+
+![Demo Screenshot](https://github.com/Daniish-Qureshi/Contact-UI-Form/blob/main/demo.png)
+
+## Live Demo
+
+Click the button below to see the project in action:
+
+[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Contact-UI-Form/)
+
 # Introduction
 
 The Contact UI Form project showcases a modern and user-friendly contact form interface. This form is designed to provide a seamless experience for users to input their contact information. It is ideal for integrating into websites to collect visitor inquiries, feedback, or any other type of information.
@@ -18,15 +28,6 @@ The Contact UI Form project showcases a modern and user-friendly contact form in
 - *HTML5*: For structuring the content.
 - *CSS3*: For styling and layout.
 
-## Demo Screenshots
-
-![Demo Screenshot](https://github.com/Daniish-Qureshi/Contact-UI-Form/blob/main/demo.png)
-
-## Live Demo
-
-Click the button below to see the project in action:
-
-[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Contact-UI-Form/)
 
 ## Contact
 
